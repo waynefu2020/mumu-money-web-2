@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mumu-money-web-2/static/css/main.47f2af02.chunk.css",
+    "main.js": "/mumu-money-web-2/static/js/main.36fb5ca5.chunk.js",
+    "main.js.map": "/mumu-money-web-2/static/js/main.36fb5ca5.chunk.js.map",
+    "runtime-main.js": "/mumu-money-web-2/static/js/runtime-main.645e7b2e.js",
+    "runtime-main.js.map": "/mumu-money-web-2/static/js/runtime-main.645e7b2e.js.map",
+    "static/js/2.dd9fbe5e.chunk.js": "/mumu-money-web-2/static/js/2.dd9fbe5e.chunk.js",
+    "static/js/2.dd9fbe5e.chunk.js.map": "/mumu-money-web-2/static/js/2.dd9fbe5e.chunk.js.map",
+    "index.html": "/mumu-money-web-2/index.html",
+    "precache-manifest.f25286b47e4e1babf13cfa0f2b551720.js": "/mumu-money-web-2/precache-manifest.f25286b47e4e1babf13cfa0f2b551720.js",
+    "service-worker.js": "/mumu-money-web-2/service-worker.js",
+    "static/css/main.47f2af02.chunk.css.map": "/mumu-money-web-2/static/css/main.47f2af02.chunk.css.map",
+    "static/js/2.dd9fbe5e.chunk.js.LICENSE.txt": "/mumu-money-web-2/static/js/2.dd9fbe5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.645e7b2e.js",
+    "static/js/2.dd9fbe5e.chunk.js",
+    "static/css/main.47f2af02.chunk.css",
+    "static/js/main.36fb5ca5.chunk.js"
+  ]
+}
